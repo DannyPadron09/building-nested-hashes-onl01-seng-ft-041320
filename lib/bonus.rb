@@ -1,5 +1,5 @@
 def bonus
-  epic_tragedy = {
+  epic_tragedy = { #main parent to call first then []
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
